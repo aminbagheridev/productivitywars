@@ -1,8 +1,12 @@
 # Accountability Platform
 
-## Overview
-
 The Accountability Platform is an open-source project aimed at providing users with a platform to set and track their goals, log daily activities, and engage in friendly competition with others. The platform encourages users to stay accountable and motivated towards achieving their goals through regular tracking and visualization of their progress.
+
+## Table of Contents
+
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Features
 
@@ -26,3 +30,11 @@ The Accountability Platform is an open-source project aimed at providing users w
 ### Built-in Time Tracker
 - Users have access to a built-in time tracker to log their time spent on various tasks and activities.
 - Time tracking helps users stay focused and manage their time effectively.
+
+## Contributing
+
+Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
