@@ -26,3 +26,11 @@ The Accountability Platform is an open-source project aimed at providing users w
 ### Built-in Time Tracker
 - Users have access to a built-in time tracker to log their time spent on various tasks and activities.
 - Time tracking helps users stay focused and manage their time effectively.
+
+## Contributing
+
+Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
