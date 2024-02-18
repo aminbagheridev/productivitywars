@@ -1,8 +1,12 @@
 # Accountability Platform
 
-## Overview
-
 The Accountability Platform is an open-source project aimed at providing users with a platform to set and track their goals, log daily activities, and engage in friendly competition with others. The platform encourages users to stay accountable and motivated towards achieving their goals through regular tracking and visualization of their progress.
+
+## Table of Contents
+
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Features
 
